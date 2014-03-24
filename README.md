@@ -1,6 +1,5 @@
 Hello Flask
 ==========
 
-hello world. 
-
+Some files to start a flask redis heroku stack. 
 
