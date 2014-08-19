@@ -7,3 +7,9 @@ gunicorn==18.0
 itsdangerous==0.23
 redis==2.9.1
 wsgiref==0.1.2
+
+# for fabric
+Fabric==1.8.3
+ecdsa==0.11
+paramiko==1.12.3
+pycrypto==2.6.1
